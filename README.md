@@ -20,4 +20,4 @@ build a modern messaging app where users can sign up and log in to chat.
 - custom aniamtions using Flutter's animation controller.
 - Firebase Cloud Firestore to store and retrieve data on the fly.
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
